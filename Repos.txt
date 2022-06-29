@@ -11,4 +11,5 @@ ejercicio 5:
 https://github.com/FrancoTenedini/ejercicio-05
 ejercicio 7:
 https://github.com/FrancoTenedini/ejercicio-07
-
+ejercicio 8:
+https://github.com/FrancoTenedini/ejercicio-08
